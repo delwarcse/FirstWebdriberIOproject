@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/cart' and @class='add-cart-popup-button']\"}\n  (Session info: chrome=123.0.6312.106)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF605A47032+63090]\n\t(No symbol) [0x00007FF6059B2C82]\n\t(No symbol) [0x00007FF60584EC65]\n\t(No symbol) [0x00007FF60589499D]\n\t(No symbol) [0x00007FF605894ADC]\n\t(No symbol) [0x00007FF6058D5B37]\n\t(No symbol) [0x00007FF6058B701F]\n\t(No symbol) [0x00007FF6058D3412]\n\t(No symbol) [0x00007FF6058B6D83]\n\t(No symbol) [0x00007FF6058883A8]\n\t(No symbol) [0x00007FF605889441]\n\tGetHandleVerifier [0x00007FF605E425AD+4238317]\n\tGetHandleVerifier [0x00007FF605E7F70D+4488525]\n\tGetHandleVerifier [0x00007FF605E779EF+4456495]\n\tGetHandleVerifier [0x00007FF605B20576+953270]\n\t(No symbol) [0x00007FF6059BE54F]\n\t(No symbol) [0x00007FF6059B9224]\n\t(No symbol) [0x00007FF6059B935B]\n\t(No symbol) [0x00007FF6059A9B94]\n\tBaseThreadInitThunk [0x00007FFE8A0D7374+20]\n\tRtlUserThreadStart [0x00007FFE8C0DCC91+33]\n"
+}
